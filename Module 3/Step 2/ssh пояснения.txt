@@ -1,0 +1,8 @@
+публичный ключ хранится здесь \\wsl$\Ubuntu
+private_key.pub
+
+закрытая часть private_key
+
+процесс генерации ключа в ubuntu:
+sudo apt install openssh-client
+ssh-keygen -t rsa
