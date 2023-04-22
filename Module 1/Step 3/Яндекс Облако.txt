@@ -1,9 +1,0 @@
-Почта v4liev.karim@yandex.ru
-
-cloud-v4liev-karim
-сервисный аккаунт kuper26
-
-имя кластера postgresql782
-бд db1
-имя пользователя user1
-пароль user1user1

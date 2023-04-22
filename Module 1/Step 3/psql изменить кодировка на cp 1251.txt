@@ -1,3 +1,0 @@
-https://www.asozykin.ru/posts/demo_database_sql_foundation?ysclid=lahvwf3bgm840341196
-
-путь C:\Program Files\PostgreSQL\13\scripts
